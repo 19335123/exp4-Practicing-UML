@@ -30,20 +30,21 @@
 
 维护人员用例图
 
-![c5b6b0074f7da9a79a7dc6d49661255.png](/api/users/image?path=8672/images/1646991153299.png)
+![d60c35758ff650a95d2646fcb88d2b2](https://user-images.githubusercontent.com/99957976/159270234-a4f72f72-a083-474f-965f-fd4db2150a10.jpg)
 
 #### 2、类图
 
-ATM自动提款机、客户、维护人员、管理员、读卡器、屏幕、键盘、取钱机和数据库等创建完整类图![d7eea9c3d498e3ec3b7d4567023491b.png](/api/users/image?path=8672/images/1646990189527.png)
+ATM自动提款机、客户、维护人员、管理员、读卡器、屏幕、键盘、取钱机和数据库等创建完整类图
+![9ac1da10605f43137305c9048f881e8](https://user-images.githubusercontent.com/99957976/159270585-ee001eb4-374a-45c7-a081-91432ce0a9db.jpg)
 
 #### 3.对象图
 
-![1c48d47c7cf60777cf0d1fce9dca424.png](/api/users/image?path=8672/images/1646990266623.png)
+![c905223dd72453b9ee59ca149b2a2c6](https://user-images.githubusercontent.com/99957976/159270433-596e970c-39c6-4b55-b4b7-ec22c7033b1e.jpg)
 
 #### 4.活动图
 
 活动图是阐明了业务用例实现的工作流程。业务工作流程说明了业务为向所服务的业务主角提供其所需的价值而必须完成的工作。业务用例由一系列活动组成，它们共同为业务主角生成某些工件。工作流程通常包括一个基本工作流程和一个或多个备选工作流程。工作流程的结构使用活动图来进行说明。
-![94092a29b365f019d87fb13f92adcd3.png](/api/users/image?path=8672/images/1646990306929.png)
+![4c185cfb8da59130f77808bb1a78cef](https://user-images.githubusercontent.com/99957976/159270684-084715a7-4fb7-476f-bd8d-4c560f33787f.jpg)
 
 #### 5.状态图
 
@@ -119,12 +120,13 @@ ATM自动提款机、客户、维护人员、管理员、读卡器、屏幕、�
 
 ##### 如上所述，得出下列UML：
 
-![image.png](/api/users/image?path=8672/images/1646990744913.png)
+![image](https://user-images.githubusercontent.com/99957976/159270920-38e569b3-a10d-43ab-a387-d1cb22eec8ba.png)
+
 
 #### 6.时序图
 
 时序图（Sequence Diagram），亦称为序列图或循序图，是一种UML行为图。它通过描述对象之间发送消息的时间顺序显示多个对象之间的动态协作。它可以表示用例的行为顺序，当执行一个用例行为时，时序图中的每条消息对应了一个类操作或状态机中引起转换的触发事件。
-![72dd6d2f6f06b35d280bd0374929dc1.png](/api/users/image?path=8672/images/1646991027354.png)
+![fac51a999929ca1b7caa15fefefe380](https://user-images.githubusercontent.com/99957976/159271009-dd88a5ff-6599-4dfd-a8c3-38cb000ac746.jpg)
 
 #### 7.协作图
 
@@ -135,22 +137,22 @@ ATM自动提款机、客户、维护人员、管理员、读卡器、屏幕、�
 协作图用于显示对象之间如何进行交互以执行特定用例或用例中特定部分的行为。设计员使用协作图和序列图确定并阐明对象的角色，这些对象执行用例的特定事件流。它们是主要的信息来源，用于确定类的职责和接口。
 
 a) 取款协作图
-![55fb13f0d904f3b6e1ef73cf9607980.png](/api/users/image?path=8672/images/1646990937509.png)
+![ff59ee5c7c6d4b6425e828765879e8a](https://user-images.githubusercontent.com/99957976/159271082-6ff18d2a-b514-4f42-94b9-78275f9ecee7.jpg)
 
 b) 存款协作图
-![4e91a6ffc39e3fb9bf9be9eba2cc867.png](/api/users/image?path=8672/images/1646990910175.png)
+![77756068d04733a96d36918ff7bd15f](https://user-images.githubusercontent.com/99957976/159271126-18736b2c-0920-4ab3-a347-279ba83e7f44.jpg)
 
 c) 查询余额协作图
-![b35b6f6c045aa48f58c0d994b5f93c6.png](/api/users/image?path=8672/images/1646990972654.png)
+![12d4aacc5a39782e9ad79f869fcad7b](https://user-images.githubusercontent.com/99957976/159271184-14dce6d5-fc81-4ac7-8b2f-d434981aa009.jpg)
 
 d)转账协作图
-![864c65cb084ee583674448c08e1b055.png](/api/users/image?path=8672/images/1646991793760.png)
+![8338fbbcfd38775b847da805f2d2c81](https://user-images.githubusercontent.com/99957976/159271242-951368a7-face-4ec7-8df4-4aff79529928.jpg)
 
 #### 8.组件图
 
 （1）系统组件图：在本系统中，我们可以对数据库服务、维护人员、读卡器、数据管理员、ATM键盘、ATM取款器、用户、银行账户、ATM屏幕分别创建对应的构件进行映射。
 
-![c58cd02a875d8bcb0087520ac17fa76.png](/api/users/image?path=8672/images/1646991362168.png)
+![image](https://user-images.githubusercontent.com/99957976/159271440-bcaa326d-1691-41de-a213-5d8d501c1a27.png)
 
 #### 9.部署图
 
@@ -168,17 +170,19 @@ d)转账协作图
 
 （4）为用户自主办理业务提供的卡槽、存钱柜；
 
-![image.png](/api/users/image?path=8672/images/1646990793986.png)
+![image](https://user-images.githubusercontent.com/99957976/159271528-e87539c7-3656-469a-935c-a1cc5cf1fe73.png)
 
 #### 10.定时图
 
 根据状态图部分的分析，在进行相应操作时，若超时未响应，为保证钱财安全，将退出当前操作；![image.png](/api/users/image?path=8672/images/1646990816079.png)
 
-![image.png](/api/users/image?path=8672/images/1646990833149.png)
+![image](https://user-images.githubusercontent.com/99957976/159271577-5857d41e-df67-42d6-88f2-59a621c9dc5e.png)
 
-![image.png](/api/users/image?path=8672/images/1646990846669.png)
+![image](https://user-images.githubusercontent.com/99957976/159271619-df260beb-74fe-4676-8759-31a3e1c60357.png)
 
-![image.png](/api/users/image?path=8672/images/1646990859414.png)
+![image](https://user-images.githubusercontent.com/99957976/159271659-39426762-4d74-46fa-9531-7a5b532cd7d8.png)
 
-![image.png](/api/users/image?path=8672/images/1646990870111.png)
+![image](https://user-images.githubusercontent.com/99957976/159271703-7096f598-847e-493f-b4f2-bf4ecb13eccc.png)
+
+![image](https://user-images.githubusercontent.com/99957976/159271755-3f66537c-19ff-433c-ad0c-8d4cc3aefebc.png)
 
