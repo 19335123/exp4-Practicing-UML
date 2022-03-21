@@ -24,7 +24,7 @@
 
 客户用例图
 
-![968262f448fc1a5046b46e88a28e56b.png](/api/users/image?path=8672/images/1646991057821.png)
+![3c381586790133ec75922ed24e77be2](https://user-images.githubusercontent.com/99957976/159270131-55fa2973-8312-412d-a527-309066ace667.jpg)
 
 （2）维护人员用例模型：维护人员对ATM机进行加钞、加凭条纸、维护、维修等工作
 
